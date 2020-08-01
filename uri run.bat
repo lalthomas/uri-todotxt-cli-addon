@@ -2,7 +2,6 @@
 REM File : uri run.bat 	
 REM Creation Date : 2017-06-09 	
 REM Author : Lal Thomas 	
-REM Original File : D:\Dropbox\project\20170609-uri todotxt cli addon\uri
 	
 REM Thanks http://stackoverflow.com/a/19706067/2182047
 REM Original modified for need
@@ -21,7 +20,7 @@ set file=%1
 GOTO :EXECUTE
 
 :SETFILE
-set file="D:\Dropbox\project\20170609-uri todotxt cli addon\uri"
+set file="D:\project\20170609-uri todotxt cli addon\uri"
 GOTO :EXECUTE
 
 REM Section
